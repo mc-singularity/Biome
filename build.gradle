@@ -139,11 +139,11 @@ dependencies {
     
     // TerraBlender: Biomes Manager
     // https://www.curseforge.com/minecraft/mc-mods/terrablender/files/5378189
-    implementation "curse.maven:terrablender-563928:5378189"
+    implementation 'curse.maven:terrablender-563928:5378189'
 
 	// GeckoLib: Animation Engine
 	// https://www.curseforge.com/minecraft/mc-mods/geckolib/files/5426780
-    implementation "curse.maven:geckolib-388172:5426780"
+    implementation 'curse.maven:geckolib-388172:5426780'
 
     // Example mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime
